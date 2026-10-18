@@ -1,0 +1,2 @@
+# Optional neural semantic retrieval support
+sentence-transformers>=3.0,<6
